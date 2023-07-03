@@ -2,13 +2,13 @@
 
 ### Here are some projects I'm making progress towards this year:
 
-#### - CFA Level 1
-#### - Applications of Beneish's M-score and the Altman's Z
-#### - Portfolio optimization and strategy
-#### - Machine Learning for language modelling @ DSI
-#### - Data mining and preprocessing for consumer sentiment analysis
-#### - Symposium presentation @ AoM 2023 in Boston
-#### - Research into behavioural systems and processes
+- CFA Level 1
+- Applications of Beneish's M-score and the Altman's Z
+- Portfolio optimization and strategy
+- Machine Learning for language modelling @ DSI
+- Data mining and preprocessing for consumer sentiment analysis
+- Symposium presentation @ AoM 2023 in Boston
+- Research into behavioural systems and processes
 <!--
 **akil-h/akil-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
