@@ -1,6 +1,4 @@
-### Hi, nice to see you here! I'm 
-
-# Akil Huang 
+### Hi, nice to have you here! I'm Akil 😁
 
 <!--
 **akil-h/akil-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
