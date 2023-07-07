@@ -1,4 +1,4 @@
-### Hi, nice to have you here! I'm Akil 😁
+io### Hi, nice to have you here! I'm Akil 😁
 
 ### Here are some projects I'm making progress towards this year:
 - CFA Level 1
